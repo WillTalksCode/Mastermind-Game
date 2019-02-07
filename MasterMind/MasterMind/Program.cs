@@ -12,9 +12,11 @@ namespace MasterMind
         {
             while (true)
             {
+                Console.WriteLine("I am thinking of 4 numbers, guess what they are");
                 Game newGame = new Game();
                 string Guess = string.Empty;
                 string Difficulty = string.Empty;
+                
                 Console.WriteLine("1 - Easy (10 turns)");
                 Console.WriteLine("2 - Hard (5 turns)");
                 Console.WriteLine("3 - Extra Hard (3 turns)");
@@ -39,8 +41,9 @@ namespace MasterMind
                         Console.WriteLine("Welcome to Extra Hard Mode, you get 3 turns");
                         break;
                 }
+                
                 newGame.SetDifficulty(Difficulty);
-
+                
                 while (newGame.NumberOfTurns > 0)
                 {
                     if (newGame.NumberOfTurns <= 3 && newGame.NumberOfTurns > 1)
@@ -64,9 +67,9 @@ namespace MasterMind
                 }
 
                 if (newGame.WonGame)
-                    Console.WriteLine("Congrats!!!!");
+                    Console.WriteLine("Congrats!!!! the string was " + newGame.ActualValue);
                 else
-                    Console.WriteLine("You Lose!");
+                    Console.WriteLine("You Lose, the actual value was " + newGame.ActualValue);
 
                 Console.Read();
             }

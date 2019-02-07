@@ -11,16 +11,19 @@ namespace MasterMind
         private List<int> Numbers;
         public int NumberOfTurns;
         public bool WonGame;
-
+        public string ActualValue;
         public Game() //Call constructor to start new game
         {
+            ActualValue = String.Empty;
             WonGame = false;
             NumberOfTurns = 10;
             Random rnd = new Random();
             Numbers = new List<int>();
             for (int i = 0; i < 4; i++)
             {
-                Numbers.Add(rnd.Next(1, 7));
+                int nextNumber = rnd.Next(1, 7);
+                Numbers.Add(nextNumber);
+                ActualValue += nextNumber.ToString();
             }
         }
 
