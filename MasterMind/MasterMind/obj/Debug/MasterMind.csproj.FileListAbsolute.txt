@@ -1,0 +1,6 @@
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.pdb

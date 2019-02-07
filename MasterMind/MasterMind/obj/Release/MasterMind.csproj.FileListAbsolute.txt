@@ -1,0 +1,5 @@
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\bin\Release\MasterMind.exe.config
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\bin\Release\MasterMind.exe
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\bin\Release\MasterMind.pdb
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\obj\Release\MasterMind.exe
+c:\users\william talley\documents\visual studio 2017\Projects\MasterMind\MasterMind\obj\Release\MasterMind.pdb
