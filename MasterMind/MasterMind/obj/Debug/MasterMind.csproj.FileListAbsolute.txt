@@ -9,3 +9,10 @@ C:\Users\William Talley\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\b
 C:\Users\William Talley\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
 C:\Users\William Talley\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\obj\Debug\MasterMind.exe
 C:\Users\William Talley\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+G:\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+G:\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+G:\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+G:\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\obj\Debug\MasterMind.csprojAssemblyReference.cache
+G:\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+G:\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+G:\Documents\GitHub\Mastermind-Game\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
